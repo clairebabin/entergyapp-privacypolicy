@@ -1,0 +1,9 @@
+{
+  "name": "beaux-terre-field-notes",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Beaux Terre Field Notes email signup funnel",
+  "dependencies": {
+    "nodemailer": "^6.9.14"
+  }
+}
